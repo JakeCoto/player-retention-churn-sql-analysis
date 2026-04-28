@@ -156,3 +156,8 @@ player-retention-churn-sql-analysis/
 │
 └── results/
     └── analysis_summary.md
+```
+
+## Disclaimer
+
+All data in this project is simulated and fictional. No real gambling, customer, financial, or company data is included.
